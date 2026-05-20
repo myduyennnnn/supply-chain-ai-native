@@ -9,7 +9,7 @@ git clone https://github.com/myduyennnnn/supply-chain-ai-native.git
 cd supply-chain-ai-native
 
 ### 2. Tải data
-Tải 3 file CSV từ Google Drive: [link]
+Tải 3 file CSV từ Google Drive: [(https://data.mendeley.com/datasets/8gx2fvg2k6/5)]
 Đặt vào thư mục `data/`:
 - DataCoSupplyChainDataset.csv
 - tokenized_access_logs.csv  
